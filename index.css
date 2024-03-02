@@ -1,0 +1,30 @@
+/* General Styles */
+body {
+  font-family: sans-serif;
+}
+
+/* Container */
+.container {
+  max-width: 600px;
+}
+
+/* Heading */
+h1 {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+/* Forms */
+form {
+  margin-bottom: 20px;
+}
+
+.form-label {
+  font-weight: bold;
+}
+
+/* Message Area */
+#message-area {
+  margin-top: 20px;
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Troy 🪖",
+  "short_name": "Troy",
+  "description": "Troy 🪖 is a web application built on the Firebase platform, designed to provide users with the ability to perform CRUD operations on data stored in a Firestore database. The app allows users to interact with data in real-time, providing a seamless and responsive experience.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#111",
+  "theme_color": "#FFD700",
+  "icons": [
+    {
+      "src": "trojan.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "trojan.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "splash_pages": null
+}
