@@ -7,7 +7,7 @@ const urlsToCache = [
   'index.html',
   'index.css',
   'index.js',
-  'trojan.png'
+  'trojan.jpg'
 ];
 
 // Install service worker
