@@ -4,7 +4,7 @@
 Troy 🪖 is a Firebase CRUD (Create, Read, Update, Delete) app for managing data in a Firestore database. It allows users to perform CRUD operations on data stored in Firestore, providing a seamless and responsive user experience.
 
 ## Demo Here 
-⚔️🪖💚 Link :"(https://troy-enivweru-emmanuels-projects-686f6170.vercel.app/)."
+⚔️💚"[Demo](https://troy-tau.vercel.app/) "
 
 ## How to Use
 
